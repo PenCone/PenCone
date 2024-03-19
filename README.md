@@ -70,6 +70,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PenCone/PenCone/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PenCone&radius=16&theme=github-light&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
+</div>
 
 ###
