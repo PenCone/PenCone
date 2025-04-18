@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Caleb, based in Cambridge, UK<br><br>- 🔭 I’m working as Director of Pen & Pencil, A product development specialist company. <br>- 📚 I'm currently learning .NET MAUI<br>- ⚡ In my free time I cycle, board game and pub</p>
+<p align="left">I'm Caleb, based in Cambridge, UK<br><br>- 🔭 I’m working as Director of Pen & Pencil, A product development specialist company. <br>- 📚 I'm currently producing a social bingo application called Bingorama - https://waitlister.me/p/bingorama<br>- ⚡ In my free time I cycle, board game and pub</p>
 
 ###
 
